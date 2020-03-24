@@ -25,4 +25,4 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, vegan, glutenfrei]
        so sind die Kartoffeln gar
   
 Die Schritte 3 und 4 können auch ausgelassen werden wenn man Pellkartoffeln erhalten möchte,
-mehr Informationen finden sich hierzu beim Rezept [Pellkartoffeln]({{ site.baseurl }}/Pellkartoffeln). 
+weitere Informationen im Rezept [Pellkartoffeln]({{ site.baseurl }}/Pellkartoffeln). 
