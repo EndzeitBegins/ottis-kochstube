@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spinatnudeln
-categories: [Grundlagen, Beilage, Nudeln, vegetarisch, glutenfrei]
+categories: [Gericht, Nudeln, vegetarisch, glutenfrei]
 ---
 
 ### Zutaten
