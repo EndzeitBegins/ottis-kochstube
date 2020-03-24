@@ -16,7 +16,7 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen</a>
     </article>
   {% endfor %}
 
@@ -26,7 +26,7 @@ layout: default
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
     {% else %}
-      <span>&laquo; Prev</span>
+      <span>&laquo; Zurück</span>
     {% endif %}
 
     {% for page in (1..paginator.total_pages) %}
@@ -42,7 +42,7 @@ layout: default
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
     {% else %}
-      <span>Next &raquo;</span>
+      <span>Weiter &raquo;</span>
     {% endif %}
   </div>
   {% endif %}
