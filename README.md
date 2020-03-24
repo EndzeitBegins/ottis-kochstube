@@ -1,3 +1,3 @@
 ## Theme
 
-This repository is based on the wonderfull template ["Reverie"](https://github.com/amitmerchant1990/reverie)
+This repository is based on the wonderfull theme ["Reverie"](https://github.com/amitmerchant1990/reverie)
