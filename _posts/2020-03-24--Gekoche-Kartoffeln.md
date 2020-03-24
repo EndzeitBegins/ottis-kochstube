@@ -24,5 +24,5 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, vegan, glutenfrei]
        hierzu Küchenmesser in eine Kartoffel hineinstechen, lässt sich leicht in diese stechen oder rutscht sie gar vom Messer ab, 
        so sind die Kartoffeln gar
   
-Die Schritte 3 und 4 können auch ausgelassen werden, 
-wenn man Pellkartoffeln erhalten möchte. 
+Die Schritte 3 und 4 können auch ausgelassen werden, wenn man Pellkartoffeln erhalten möchte
+- mehr Informationen beim Rezept [Pellkartoffeln]({{ site.baseurl }}Pellkartoffeln). 
