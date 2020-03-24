@@ -6,7 +6,7 @@ layout: default
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <h2>{{ post.title }}</h2>
+        <h3>{{ post.title }}</h3>
 
         <!--
         <div>
@@ -16,7 +16,7 @@ layout: default
         
       </a>
       
-      <div>
+      <div class="category-list">
       {% for category in post.categories %}
         <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
@@ -29,7 +29,9 @@ layout: default
       </div>
       -->
       
+      <!--
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen</a>
+      -->
     </article>
   {% endfor %}
 
