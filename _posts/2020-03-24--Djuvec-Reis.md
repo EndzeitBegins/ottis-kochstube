@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Djuvec-Reis
-categories: [Gericht, Reis, vegetarisch, glutenfrei]
+categories: [Gericht, Reis, vegetarisch, vegan, glutenfrei]
 ---
 
 ### Zutaten
