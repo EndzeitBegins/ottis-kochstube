@@ -699,7 +699,7 @@ Modules - reusable parts of our design
   line-height: 35px;
 }
 
-.post-tags a {
+.post-tags a, article.post .category-list a {
   font-size: 14.5px;
   padding: 2px 13px;
   border: none;
