@@ -699,6 +699,10 @@ Modules - reusable parts of our design
   line-height: 35px;
 }
 
+article.post h3 {
+  text-align: left
+}
+
 .post-tags a, article.post .category-list a {
   font-size: 14.5px;
   padding: 2px 13px;
