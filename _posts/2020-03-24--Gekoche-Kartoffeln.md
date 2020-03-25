@@ -12,7 +12,7 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, vegan, glutenfrei]
 
 ### Anleitung
 
-1. Kochtopf in geeigneter Größe mit **kaltem** Wasser füllen
+1. Kochtopf in geeigneter Größe mit kaltem Wasser füllen
 2. Kochtopf bei mittlerer Hitze erhitzen
 3. Kartoffeln schälen - etwa mit Sparschäler oder Messer 
 4. große Kartoffeln der Länge nach halbieren
