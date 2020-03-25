@@ -28,4 +28,4 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, glutenfrei]
 4. Kartoffelscheiben in Bratpfanne braten
 5. mit Salz, Pfeffer und Parika-Gewürz würzen
 6. (optional)   
-  weitere Zutaten hinzugeben und mit anbraten 
+  weitere Zutaten schneiden, hinzugeben und mit anbraten 
