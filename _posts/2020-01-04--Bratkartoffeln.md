@@ -11,6 +11,7 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, glutenfrei]
 - Salz, Pfeffer
 - Paprika edelsüß (Gewürz)
 
+<br>
 
 - Zwiebeln (optional)
 - Paprika (optional)
