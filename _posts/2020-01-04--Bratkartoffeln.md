@@ -24,5 +24,6 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, glutenfrei]
 1. [Kartoffeln kochen]({{ site.baseurl }}/Gekochte-Kartoffeln) oder etwa Reste des Vortags nutzen
 2. Kartoffeln in Scheiben schneiden
 3. Bratpfanne mit Bratfett o.Ä. stark erhitzen
-4. Kartoffelscheiben in Bratpfanne braten, optional zusammen mit weiteren Zutaten
-5. 
+4. Kartoffelscheiben in Bratpfanne braten
+5. mit Salz, Pfeffer und Parika-Gewürz würzen
+6. weitere Zutaten hinzugeben und mit anbraten (optional)
