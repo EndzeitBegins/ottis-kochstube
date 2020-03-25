@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reis
+title: gekochter Reis
 categories: [Grundlagen, Beilage, Reis, vegetarisch, vegan, glutenfrei]
 ---
 
