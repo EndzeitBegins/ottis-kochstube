@@ -16,7 +16,8 @@ categories: [Grundlagen, Beilage, Nudeln, vegetarisch, glutenfrei]
 2. Kochtopf bei mittlerer Hitze erhitzen
 6. Nudeln kochen 
     1. Salz in den Topf geben, nach Geschmack
-    2. einen Stich Butter o.Ä. hinzu geben (optional)
+    2. (optional)   
+        einen Stich Butter o.Ä. hinzu geben 
     3. Nudeln in das kochende Wasser geben
     4. regelmäßig umrühren
     5. Kopftopf vom Herd nehmen, sobald die Nudeln gar sind
