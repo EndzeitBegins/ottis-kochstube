@@ -23,6 +23,7 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, vegan, glutenfrei]
     3. regelmäßig Gargrad der Kartoffeln prüfen   
        hierzu Küchenmesser in eine Kartoffel hineinstechen, lässt sich leicht in diese stechen oder rutscht sie gar vom Messer ab, 
        so sind die Kartoffeln gar
+7. Wasser abschütten und servieren
   
 Die Schritte 3 und 4 können auch ausgelassen werden wenn man Pellkartoffeln erhalten möchte,
 weitere Informationen im Rezept [Pellkartoffeln]({{ site.baseurl }}/Pellkartoffeln). 
