@@ -1,6 +1,6 @@
 ---
 layout: page
-title: originale Bilder
+title: originale Rezepte
 permalink: /original-images/
 ---
 
