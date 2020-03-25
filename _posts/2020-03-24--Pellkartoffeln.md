@@ -4,17 +4,11 @@ title: Pellkartoffeln
 categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, vegan, glutenfrei]
 ---
 
-<section id="ingredients">
-
 ### Zutaten
 
 - Kartoffeln
 - Salz
 - Magarine (optional)
-
-</section>
-
-<section id="tasks">
 
 ### Anleitung
 
@@ -28,10 +22,6 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, vegan, glutenfrei]
        hierzu Küchenmesser in eine Kartoffel hineinstechen, lässt sich leicht in diese stechen oder rutscht sie gar vom Messer ab, 
        so sind die Kartoffeln gar
 
-</section>
-  
-<section id="proposals">
-
 ### dazu passt auch ...
 
 eine Soße, wie   
@@ -41,5 +31,3 @@ leicht Gebratenes, wie
 ... Bratwurst, Schnitzel, Leberkäse ...
 
 ein Salat
-
-</section>
