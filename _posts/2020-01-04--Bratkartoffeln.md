@@ -15,7 +15,7 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, glutenfrei]
 - Zwiebeln (optional)
 - Paprika (optional)
 - Tomaten (optional)
-- gekochter Schinken (optional)
+- Kochschinken (optional)
 - Salami (optional)
 - Mais (optional)
 - ...
