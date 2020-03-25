@@ -11,13 +11,12 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, glutenfrei]
 - Salz, Pfeffer
 - Paprika edelsüß (Gewürz)
 
-#### optional
-- Zwiebeln
-- Paprika
-- Tomaten
-- gekochter Schinken
-- Salami
-- Mais
+- Zwiebeln (optional)
+- Paprika (optional)
+- Tomaten (optional)
+- gekochter Schinken (optional)
+- Salami (optional)
+- Mais (optional)
 - ...
 
 ### Anleitung
