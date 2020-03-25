@@ -18,6 +18,7 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, glutenfrei]
 - gekochter Schinken
 - Salami
 - Mais
+- ...
 
 ### Anleitung
 
