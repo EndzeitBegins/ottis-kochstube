@@ -15,7 +15,7 @@ categories: [Grundlagen, Beilage, Nudeln, vegetarisch, vegan, glutenfrei]
 - Zwiebeln (optional)
 - Paprika (optional)
 - Tomaten (optional)
-- gekochter Schinken (optional)
+- Kochschinken (optional)
 - Salami (optional)
 - Mais (optional)
 - ...
@@ -27,7 +27,7 @@ categories: [Grundlagen, Beilage, Nudeln, vegetarisch, vegan, glutenfrei]
 3. Nudeln in Bratpfanne braten
 4. mit Salz, Pfeffer und Parika-Gewürz würzen
 5. (optional)   
-  weitere Zutaten hinzugeben und mit anbraten 
+  weitere Zutaten schneiden, hinzugeben und mit anbraten 
 6. (optional)   
   falls Nudeln zu trocken werden: etwas Wasser, Milch, Sahne o.Ä. hinzugeben
 
