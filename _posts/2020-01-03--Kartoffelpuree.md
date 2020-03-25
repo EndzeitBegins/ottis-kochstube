@@ -20,4 +20,5 @@ categories: [Grundlagen, Beilage, Kartoffel, vegetarisch, glutenfrei]
    bis dickliche Masse entsteht
 5. etwas Milch hinzugeben und erneut stampfen
 6. Schritt 5 wiederholen, bis Masse entsteht, die leicht mit Esslöffel zerteilbar ist
-7. Muskatnuss unterheben (optional)
+7. (optional)   
+   Muskatnuss unterheben
